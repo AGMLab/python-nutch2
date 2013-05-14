@@ -1,4 +1,4 @@
 .idea
 .directory
 *.pyc
-
+nutch2/runner/local_settings.py
